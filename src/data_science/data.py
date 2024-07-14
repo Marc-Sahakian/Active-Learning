@@ -1,6 +1,10 @@
 import numpy as np
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
 
 def random_sampling(x_pool, y_pool):
+    '''
+    '''
     random_index = np.random.randint(0, len(x_pool))
     x_selected = x_pool[random_index]
     y_selected = y_pool[random_index]
