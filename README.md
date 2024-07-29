@@ -1,4 +1,4 @@
-
+This is a project about Active Learning, here are the following instuctions:
 
 * Load the Digit dataset from [here](https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html),
 * to renormalize the data, divide by 255,
