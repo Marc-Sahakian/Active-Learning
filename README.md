@@ -55,6 +55,5 @@ You will find here below some hints to implement the three algorithms:
 
 For each of the three sampling strategies, make a plot displaying iteration (x axis) vs accuracy (y axis) and comment the results.
 
-For each of the sampling strategies, compute the first iteration for which the model accuracy is larger than 0.8(a ne pas faire)
 
-Comment est le comportement des trois algorithmes lorsque varier la taille du jeu de train et le nombre d'iterations
+What is the behavior of the three algorithms when varying the size of the training set and the number of iterations?
